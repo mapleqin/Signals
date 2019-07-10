@@ -1,7 +1,7 @@
 #import <Foundation/Foundation.h>
 
-#import <SSignalKit/SThreadPoolTask.h>
-#import <SSignalKit/SThreadPoolQueue.h>
+#import "SThreadPoolTask.h"
+#import "SThreadPoolQueue.h"
 
 @interface SThreadPool : NSObject
 

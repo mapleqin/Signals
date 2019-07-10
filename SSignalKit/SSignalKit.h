@@ -18,28 +18,28 @@ FOUNDATION_EXPORT double SSignalKitVersionNumber;
 //! Project version string for SSignalKit.
 FOUNDATION_EXPORT const unsigned char SSignalKitVersionString[];
 
-// In this header, you should import all the public headers of your framework using statements like #import <SSignalKit/PublicHeader.h>
+// In this header, you should import all the public headers of your framework using statements like #import PublicHeader.h>
 
-#import <SSignalKit/SAtomic.h>
-#import <SSignalKit/SBag.h>
-#import <SSignalKit/SSignal.h>
-#import <SSignalKit/SSubscriber.h>
-#import <SSignalKit/SDisposable.h>
-#import <SSignalKit/SDisposableSet.h>
-#import <SSignalKit/SBlockDisposable.h>
-#import <SSignalKit/SMetaDisposable.h>
-#import <SSignalKit/SSignal+Single.h>
-#import <SSignalKit/SSignal+Mapping.h>
-#import <SSignalKit/SSignal+Multicast.h>
-#import <SSignalKit/SSignal+Meta.h>
-#import <SSignalKit/SSignal+Accumulate.h>
-#import <SSignalKit/SSignal+Dispatch.h>
-#import <SSignalKit/SSignal+Catch.h>
-#import <SSignalKit/SSignal+SideEffects.h>
-#import <SSignalKit/SSignal+Combine.h>
-#import <SSignalKit/SSignal+Timing.h>
-#import <SSignalKit/SSignal+Take.h>
-#import <SSignalKit/SSignal+Pipe.h>
-#import <SSignalKit/SMulticastSignalManager.h>
-#import <SSignalKit/STimer.h>
-#import <SSignalKit/SVariable.h>
+#import "SAtomic.h"
+#import "SBag.h"
+#import "SSignal.h"
+#import "SSubscriber.h"
+#import "SDisposable.h"
+#import "SDisposableSet.h"
+#import "SBlockDisposable.h"
+#import "SMetaDisposable.h"
+#import "SSignal+Single.h"
+#import "SSignal+Mapping.h"
+#import "SSignal+Multicast.h"
+#import "SSignal+Meta.h"
+#import "SSignal+Accumulate.h"
+#import "SSignal+Dispatch.h"
+#import "SSignal+Catch.h"
+#import "SSignal+SideEffects.h"
+#import "SSignal+Combine.h"
+#import "SSignal+Timing.h"
+#import "SSignal+Take.h"
+#import "SSignal+Pipe.h"
+#import "SMulticastSignalManager.h"
+#import "STimer.h"
+#import "SVariable.h"

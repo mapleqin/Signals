@@ -1,4 +1,4 @@
-#import <SSignalKit/SDisposable.h>
+#import "SDisposable.h"
 
 @class SSignal;
 

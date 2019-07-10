@@ -1,6 +1,6 @@
-#import <SSignalKit/SSignal.h>
+#import "SSignal.h"
 
-#import <SSignalKit/SQueue.h>
+#import "SQueue.h"
 
 @interface SSignal (Timing)
 

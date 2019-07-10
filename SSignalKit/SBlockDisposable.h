@@ -1,4 +1,4 @@
-#import <SSignalKit/SDisposable.h>
+#import "SDisposable.h"
 
 @interface SBlockDisposable : NSObject <SDisposable>
 

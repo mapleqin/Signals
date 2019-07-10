@@ -1,4 +1,4 @@
-#import <SSignalKit/SSignal.h>
+#import "SSignal.h"
 
 @interface SSignal (Single)
 
