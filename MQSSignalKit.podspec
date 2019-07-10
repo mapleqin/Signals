@@ -15,8 +15,8 @@ Pod::Spec.new do |spec|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  spec.name         = "SwiftSignalKit"
-  spec.version      = "0.0.3"
+  spec.name         = "MQSSignalKit"
+  spec.version      = "0.0.4"
   spec.summary      = "An experimental Rx- and RAC-3.0-inspired FRP framework"
 
   # This description is used to generate tags and improve search results.
